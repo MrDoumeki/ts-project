@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-10-22 20:41:23
- * @LastEditTime: 2020-10-22 20:43:15
+ * @LastEditTime: 2020-10-24 21:07:14
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \react-ts-project\src\utils\request.ts

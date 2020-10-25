@@ -11,8 +11,8 @@ const App:FC = ():any => {
     // </div>
     <BrowserRouter>
     <Switch>
-      <Route path='/login' component={Login}></Route>
-      <Route path='/' component={Layout}></Route>
+      <Route path='/layout' component={Layout}></Route>
+      <Route path='/' component={Login}></Route>
       {/* 小坑，路由匹配由上至下，而Switch匹配完一个之后不再继续往下匹配，如果/写在前面，那么/xxx将会只匹配到/ */}
     </Switch>
   </BrowserRouter>

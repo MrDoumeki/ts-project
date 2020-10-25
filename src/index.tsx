@@ -4,7 +4,7 @@ import App from './App';
 import 'antd/dist/antd.less'
 import './index.less'
 import store from './redux/store'
-import {Provider} from 'react-redux'
+import { Provider } from 'react-redux'
 
 ReactDOM.render(
   <Provider store={store}>
